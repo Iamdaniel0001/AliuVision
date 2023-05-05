@@ -1,0 +1,32 @@
+{
+    "manifest": {
+        "name": "AliuVision",
+        "version": "1.0.1",
+        "author": "Ella",
+        "license": "Apache License 2.0"
+    },
+    "background": {
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/1037081517979095211\/1049444903928741938\/Nebula.jpg",
+        "overlay_alpha": 0
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": 0,
+        "background_secondary": 1258291200,
+        "accent": -2276041,
+        "active_channel": -2132400345,
+        "mention_highlight": 419370496
+    },
+    "colors": {
+        "uikit_btn_bg_color_selector_green": -1693913,
+        "uikit_btn_bg_color_selector_red": -5693151
+    },
+    "drawable_tints": {
+        "ic_status_online_16dp": -12339839,
+        "ic_status_dnd_16dp": -6805207,
+        "ic_status_streaming_16dp": -10930539,
+        "ic_status_invisible_16dp": -8355712,
+        "ic_status_idle_16dp": -350693
+    },
+    "raws": {}
+}
